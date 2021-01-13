@@ -1,2 +1,2 @@
-# Bases-python
-Mi primer repositorio
+# Objectus
+Un lenguaje de programación
